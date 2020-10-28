@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm [Ajay](https://www.linkedin.com/in/ajay-vamsi-823011185/)
 
 
 - 🔭 Junior Data Scientist at Appcilious Pvt Ltd as a Part time Role
