@@ -3,6 +3,6 @@
 
 - 🔭 I am currently working as Jr. Data Scientist at Appcilious Pvt Ltd as a Part time Role.
 - 🌱 Working on Computer Vision and Natural Language Processing.
-- 👯 I’m currently Learning Reinforcement Learning.
+- 👯 currently Exploring Reinforcement Learning.
 - 📫 Reach me at: [Here](https://www.linkedin.com/in/ajay-vamsi-823011185/)
 <hr>
